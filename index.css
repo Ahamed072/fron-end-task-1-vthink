@@ -1,0 +1,202 @@
+.title {
+    color: #5C6AC4;
+}
+
+.header-top {
+    
+    background-color: #23233f;
+
+}
+
+.header-top-nav-items {
+    display: flex;
+    list-style-type: none;
+    justify-content: end;
+}
+
+.header-top-nav-items li {
+    padding: 10px 10px;
+    color: white;
+    font-family: "Roboto";
+}
+
+.header-center-nav-items {
+    display: flex;
+    justify-content: end;
+    color: black;
+    list-style-type: none;
+}
+
+.header-center {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-center-nav-items li {
+    padding: 12px 12px;
+    font-size: 19px;
+    font-family: "Roboto";
+}
+
+.header-bottom-nav-items {
+    color: white;
+    list-style-type: none;
+    display: flex;
+}
+
+.header-bottom {
+    background-color: #23233f;
+    display: flex;
+    justify-content: space-evenly
+}
+.header-bottom-search-container{
+  padding: 24px;
+}
+.header-bottom-search-icon{
+  color : white;
+  font-size : 25px !important;
+  font-weight:bolder;
+}
+.header-bottom-share-icon{
+  font-size : 25px !important;
+  color : white;
+  
+}
+.header-bottom-nav-items li {
+    padding: 12px 12px;
+    font-size: 17px;
+    font-family: "Roboto";
+}
+.search-share-conatiner{
+  display: flex;
+}
+
+.header-bottom-nav {
+    display: flex;
+}
+
+.material-symbols-outlined {
+    font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 48
+}
+
+.card-text {
+    font-family: 'DiscoverSans-Semibold';
+}
+
+.article-image {
+    height: 180px;
+    width: 210px;
+    border-radius: 12px;
+}
+
+.text-container {
+    padding: 10px;
+    text-align: center;
+}
+
+.body {
+    text-align: center;
+    background-color: #F9F9F9;
+    height: 65vh;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    margin: 5px;
+    margin-right: 6px;
+    border-radius: 11px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card2 {
+    background-color: #23233f;
+    margin: 5px;
+    margin-right: 6px;
+    border-radius: 11px;
+    padding: 40px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card2-text {
+    color: white;
+    font-size: 20px;
+}
+
+.webinar-btn {
+    background-color: #e07510;
+    color: white;
+    height: 50px;
+    width: 150px;
+    border-radius: 20px;
+    color: white;
+    border-width: 0px;
+}
+
+.Flipbook-image {
+    height: 180px;
+    width: 210px;
+    border-radius: 12px;
+}
+
+
+.Footer {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin-top: 50px;
+    border-bottom:  1px solid black ;
+    margin: 0px 10%;
+    
+
+}
+
+.footer-cards {
+    display: flex;
+    flex-direction: column;
+    margin-right: 30px;
+    margin-left: 30px;
+    gap: 10px;
+    font-family: "DiscoverSans-Semibold";
+}
+
+.links {
+    padding: 10px;
+}
+
+.utube-img {
+    margin: 10px;
+}
+
+.terms {
+    display: flex;
+}
+
+.terms-text {
+    padding: 8px 8px;
+    font-family: "Roboto";
+}
+.location-svg{
+    margin-right: 5px;
+}
+
+.discover{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.discover-img{
+    height: 25px;
+    width: 135px;
+    margin-bottom: 30px;
+    margin-right: 30px;
+}
+
+.footer-last-section{
+  margin-right: 290px;
+  margin-left: 290px;
+}
